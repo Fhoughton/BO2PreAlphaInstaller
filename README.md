@@ -9,7 +9,7 @@ This script does not provide the pre-alpha files, you must find them yourself an
 7zip must be installed for the program to work, if you do not have it then it may be downloaded from https://www.7-zip.org/
 
 ### Acquiring The Installer
-To start click [here]() to get a zip file for the scripts, then extract it by right clicking in ```File Explorer``` and choosing ```Extract All``` then ```Extract```
+To start click [here](https://github.com/Fhoughton/BO2PreAlphaInstaller/archive/refs/heads/master.zip) to get a zip file for the scripts, then extract it by right clicking in ```File Explorer``` and choosing ```Extract All``` then ```Extract```
 
 ### Installing The Alpha
 With everything in place you can right click ```install-alpha.ps1``` and then choose ```Run with PowerShell```, this will open a blue window which will guide you through installing the files.
