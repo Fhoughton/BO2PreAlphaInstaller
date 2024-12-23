@@ -21,4 +21,4 @@ If you have the patch then after install paste it into the ```merged2``` folder,
 Before running the game you need to set a map externally, as the map selection is broken within the emulator. To do this right click ```select-map.ps1``` and choose ```Run with PowerShell```, which opens a blue window which lets you choose a map to make the game run.
 
 ### Running The Game
-To start the game, having followed the installation, run ```start-alpha.ps1```.
+To start the game, having followed the installation, run ```run-alpha.ps1```.
