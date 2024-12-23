@@ -22,6 +22,7 @@ switch ($Which) {
   8 {$mapname = "zm_factory"}
   9 {$mapname = "zm_sumpf"}
   10 {$mapname = "zm_prototype"}
+  11 {$mapname = "zm_buried"}
   default {
     Write-Host 'Unknown option, press any key to exit.'
     $null = $Host.UI.RawUI.ReadKey('NoEcho,IncludeKeyDown');
